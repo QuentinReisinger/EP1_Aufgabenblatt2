@@ -22,6 +22,7 @@ public class Aufgabe5 {
         ITEMS.put("Magischer Stab", new Integer[]{0, 7});
         ITEMS.put("Stärketrank", new Integer[]{20, 20});
 
+
         System.out.println("Willkommen bei Loot and Win");
 
         boolean playAgain;
